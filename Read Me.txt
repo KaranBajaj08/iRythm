@@ -1,0 +1,3 @@
+Write a C function intended to run on an embedded microcontroller that takes an array of integers and the length of that array (which can be anything from 3 to 100) as input and returns the largest 3 values in the array.
+
+Then write a unit test function that exercises the above function.
